@@ -10,9 +10,11 @@ This project contains Python scripts for generating and managing numbers, likely
 ## Usage
 
 1. **Run the main script**:
+
    ```powershell
    python main.py
    ```
+
    This will execute the main logic of the project.
 
 2. **Modify or extend functionality**:
